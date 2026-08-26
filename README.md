@@ -1,6 +1,6 @@
 # Gemba Skills
 
-Skills for [Gemba](https://forwardimpact.team), the agent-runtime platform. They teach the `gemba-*` command family and the published composite actions that run the same loop in CI.
+Skills for [Gemba](https://www.gemba.team), the agent-runtime platform. They teach the `gemba-*` command family and the published composite actions that run the same loop in CI.
 
 ## Install
 
