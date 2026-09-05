@@ -1,5 +1,5 @@
 name: gemba-skills
-version: 0.1.3
+version: 0.1.4
 description: >-
   Gemba platform skills: stand up and operate an agent team with the harness, trace, benchmark, wiki, xmr, and watchdog commands and their CI actions.
 author: forwardimpact
