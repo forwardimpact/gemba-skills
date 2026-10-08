@@ -8,7 +8,7 @@ description: >
   activity watchdog into CI.
 license: Apache-2.0
 metadata:
-  version: "0.1.6"
+  version: "0.1.7"
   author: forwardimpact
 ---
 
